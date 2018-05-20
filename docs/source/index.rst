@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to datascience-reference's documentation!
+Welcome to the Data Science Reference!
 =================================================
 
 .. toctree::
@@ -23,6 +23,14 @@ Tools
 * Text Editors
 * Anaconda
 * IPython/Jupyter
+
+Categories
+----------
+
+- Mathematics
+- Programming
+- Statistics
+- Visualization
 
 Indices and tables
 ==================
