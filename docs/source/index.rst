@@ -10,7 +10,19 @@ Welcome to datascience-reference's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+Programming Languages
+---------------------
 
+* Julia
+* Python
+* R
+
+Tools
+-----
+
+* Text Editors
+* Anaconda
+* IPython/Jupyter
 
 Indices and tables
 ==================
