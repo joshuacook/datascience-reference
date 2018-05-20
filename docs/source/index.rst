@@ -13,7 +13,7 @@ Welcome to the Data Science Reference!
 Programming Languages
 ---------------------
 
-* Julia
+* :ref:`Julia <the-julia-programming-language>`
 * Python
 * R
 
